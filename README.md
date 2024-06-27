@@ -1,0 +1,2 @@
+# potencia
+crud potencia
